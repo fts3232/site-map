@@ -3,7 +3,6 @@
     "description": "laravel 5 site-map",
     "type": "package",
     "license": "MIT",
-    "version":"1.0",
     "keywords":[
         "laravel",
         "site-map"
